@@ -17,7 +17,7 @@ The project includes the following files:
 - <a href="https://github.com/khushigupta95/Sales_Analysis2025/blob/main/Sales%20Data2025.csv">Sales Data</a> - Main dataset containing sales transactions.
 - <a href="https://github.com/khushigupta95/Sales_Analysis2025/tree/main/COUNTRY%20WISE%20DATA">Country Data</a> - CSV files for Canada, China, India, Nigeria, UK, and US.
 - <a href="https://github.com/khushigupta95/Sales_Analysis2025/tree/main/SQL%20QUERIES">SQL Queries</a> - Document with SQL queries used for data transformation.
-- <a href="https://github.com/khushigupta95/Sales_Analysis2025/blob/main/Screenshot%20(37).png">Power BI Dashboard file download </a> 
+- <a href="https://github.com/khushigupta95/Sales_Analysis2025/blob/main/SALES%20DASHBOARDD.pbix">Power BI Dashboard file download </a> 
 
 - Power BI dashboard image
 
@@ -53,7 +53,7 @@ Developed an interactive dashboard with the following visualizations:
 ---
 
 ## Usage Guide
-1. **Open Power BI** and load the  file.
+1. **Open Power BI** and load- <a href="https://github.com/khushigupta95/Sales_Analysis2025/blob/main/SALES%20DASHBOARDD.pbix">Power BI Dashboard file download </a> 
 2. **Explore the interactive visuals** to gain insights into sales trends.
 3. **Modify filters and slicers** to analyze different aspects of the data.
 
