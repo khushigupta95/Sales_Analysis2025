@@ -32,6 +32,23 @@ The sales data was cleaned using SQL queries to remove inconsistencies and missi
 - Removed duplicate entries.
 - Handled missing or NULL values.
 - Standardized date formats and product categories.
+- **Sales Revenue & Profit by Country (Combined Query)**
+![SQL Query Screenshot](https://raw.githubusercontent.com/khushigupta95/Sales_Analysis2025/main/SQL%20QUERIES/Screenshot%20(42).png)
+
+- **Top 5 Best-Selling Products (During the Period)**
+  ![SQL Query Screenshot](https://raw.githubusercontent.com/khushigupta95/Sales_Analysis2025/main/SQL%20QUERIES/Screenshot%20(43).png)
+
+_ **Best Sales Representatives (During the Period)**
+  ![SQL Query Screenshot](https://raw.githubusercontent.com/khushigupta95/Sales_Analysis2025/main/SQL%20QUERIES/Screenshot%20(44).png)
+
+_ **Which store locations generated the highest sales?**
+  ![SQL Query Screenshot](https://raw.githubusercontent.com/khushigupta95/Sales_Analysis2025/main/SQL%20QUERIES/Screenshot%20(45).png)
+
+_ **What are the key sales and profit insights for the selected period?**
+![SQL Query Screenshot](https://raw.githubusercontent.com/khushigupta95/Sales_Analysis2025/main/SQL%20QUERIES/Screenshot%20(46).png)
+
+
+
 
 ### Step 2: Data Transformation
 - Joined sales data from different regions.
