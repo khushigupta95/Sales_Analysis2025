@@ -32,9 +32,6 @@ The sales data was cleaned using SQL queries to remove inconsistencies and missi
 - Removed duplicate entries.
 - Handled missing or NULL values.
 - Standardized date formats and product categories.
-- 
-
-
 
 ### Step 2: Data Transformation
 - Joined sales data from different regions.
